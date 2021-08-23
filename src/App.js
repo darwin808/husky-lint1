@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  const test1 = "qweqwe";
+  const test2 = "qweqwe";
   return (
     <div className="app">
       <header className="App-header">
